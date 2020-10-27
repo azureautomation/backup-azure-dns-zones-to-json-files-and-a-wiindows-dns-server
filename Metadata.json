@@ -1,0 +1,20 @@
+{
+    "Author": "Matt Padfield",
+    "ContentSize": 30797,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/backup-azure-dns-zones-to-json-files-and-a-wiindows-dns-server/master/Backup-AzureDns.ps1",
+    "DownloadCount": 626,
+    "Id": "Backup-Azure-DNS-zones-to-e4d2e502",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 201,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-2-9T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Queries Azure subscriptions for their DNS zones, and writes them to json files and to a Windows DNS server. The Windows DNS server provides an easy, gui way of checking that a copy of the Azure DNS zone exists, also a quick method for restoring a zone, by uploading the zone file",
+    "Title": "Backup Azure DNS zones to json files and a Wiindows DNS server",
+    "UpdatedDate": "2019-8-8T00:00:00",
+    "Url": "https://github.com/azureautomation/backup-azure-dns-zones-to-json-files-and-a-wiindows-dns-server",
+    "UserTags": "Azure, DNS"
+}
